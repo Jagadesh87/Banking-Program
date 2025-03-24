@@ -1,5 +1,5 @@
 # Simple Banking Program
--> Java
--> Scanner
--> while, Switch Statements
--> Functions
+-> Java        
+-> Scanner           
+-> while, Switch Statements            
+-> Functions             
